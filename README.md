@@ -9,7 +9,7 @@ It is a collaborative filtering-based Recommender that will recommend any digita
 - To visualize the data based on rating, and browsing history.
 - To predict preferred digital media that top in whilst list or users may be keen on.
 
-  *A heatmap is added as reference:*
+*A heatmap is added as reference:*
 <img width="730" alt="Screenshot 2023-11-22 at 2 26 12 AM" src="https://github.com/BorHan-U/Recommender_collaborative-filtering-algorithm-R/assets/55747898/afdc4958-4b52-4091-9f30-ac580c22fb8e">
 
 If you are excited to know more about this project and for a detailed paper, don't hesitate to contact me > info@uddinborhan.com
