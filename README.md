@@ -1,6 +1,7 @@
 # A Recommender by using collaborative filtering algorithm with R
 
 *Algorithm:*
+
 It is a recommendation system that recommender will recommend any digital media based on the user’s watch history through “collaborative filtering algorithm”, it is also called item based collaborative filtering algorithm. Therefore, Collaborative filtering refers to a set of algorithms that include several methods for locating comparable people or things, as well as numerous methods for calculating ratings based on the ratings of similar users. It is derived solely on the basis of a user's implicit or explicit rating of an item. For instance, if user A watches a drama that user B has already watched, then the recommender will also recommend same item that user B watched and liked after watching that same film.
 
 *Objective*
